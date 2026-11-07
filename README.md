@@ -15,7 +15,7 @@ Bienvenue sur le portail principal de mes ressources et projets en mathématique
 ### 💻 Projets & Outils Numériques
 | Dépôt | Description | Technologies |
 | :--- | :--- | :--- |
-| **[delplace-latex](https://github.com/delplace-maths/delplace-latex)** | Dépôt de secours et modèles LaTeX (alternative en cas d'indisponibilité d'Overleaf) | LaTeX, GitHub Actions |
+| **[delplace-latex](https://github.com/delplace-maths/delplace-latex)** ![Privé](https://img.shields.io/badge/-Priv%C3%A9-red?style=flat-square) | Dépôt de secours et compilateur LaTeX (alternative en cas d'indisponibilité d'Overleaf) | LaTeX, GitHub Actions |
 | **[nom-du-depot-3](#)** | Site web pédagogique et documentation interactive | MkDocs, Pyodide |
 | **[nom-du-depot-4](#)** | Scripts d'automatisation et générateurs de sujets | Python |
 
